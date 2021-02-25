@@ -1,0 +1,33 @@
+img{
+    max-height: 500px;
+max-width: 300px;
+
+}
+body{
+   background-color: #Fcec85; 
+}
+h1{
+    background-color: #F7df41;
+    font-family: chalkboard;
+}
+#intro{
+    background-color: #F7df41;
+    font-size: 1.5rem;
+}
+
+#link{
+    background-color: #F7df41;
+}
+
+#address{
+    background-color: #ecce05;
+}
+
+#date{
+    background-color: #F7df41;
+
+}
+
+#container{
+ 
+}
